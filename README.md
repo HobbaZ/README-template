@@ -1,7 +1,29 @@
 # README TEMPLATE
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
+
+![License](https://img.shields.io/badge/Made%20with-Markdown-darkgreen.svg)
+
+[![Github Commits](https://img.shields.io/github/commit-activity/w/HobbaZ/README-template)](https://github.com/HobbaZ/README-template/commits)
+
+[![GitHub latest commit](https://img.shields.io/github/last-commit/HobbaZ/README-template)](https://github.com/HobbaZ/README-template/branches)
+
+[![GitHub followers](https://img.shields.io/github/followers/HobbaZ.svg)]()
+
+![GitHub repo size](https://img.shields.io/github/repo-size/HobbaZ/README-template)
+
+[![GitHub issues](https://img.shields.io/github/issues/HobbaZ/README-template)](https://img.shields.io/github/issues/HobbaZ/README-template)
+
+![GitHub forks](https://img.shields.io/github/forks/HobbaZ/README-template)
+
+![GitHub language count](https://img.shields.io/github/languages/count/HobbaZ/README-template)
+
+![GitHub search hit counter](https://img.shields.io/github/search/HobbaZ/README-template/hits)
+
+Go to [sheilds.io](https://img.shields.io) to see what other badges you can add to your projects (to use the ones above, just change to your username and repo)
+
 ## Description
-<h3>Project Aim</h3>
+### Project Aim ###
 Ever needed a professional README layout but didn't know where to start? Use this template to quickly develop a professional README. 
 
 
@@ -10,14 +32,15 @@ Ever needed a professional README layout but didn't know where to start? Use thi
 
 You can add code blocks and other font stylings to your README via the markdown syntax, look at this [mastering markdown ](https://guides.github.com/features/mastering-markdown/) link for more information.
 
-<h3>What Problem Does It Solve</h3>
+### What Problem Does It Solve ###
 Solves the programmer's most gruelling and hated task, documentation.
 
-<h3>What I Learnt</h3>
+### What I Learnt ###
 Put what skills you learnt or advanced upon here.
 
 ## Deployment
 You can view the [website link](https://github.com/HobbaZ/README-template) here. 
+
 
 ## Table of Contents
 - [Description](#description)
@@ -52,17 +75,20 @@ Repeat WHEN and THEN until all major project needs have been defined
 You will need: 
 Github, VS Code, Gitbash
 
-1. Click  Use this Template
+1. Click Use this Template
 2. Enter a name for your repo
-3. Git clone new repo to your computer by using gitbash and typing:
+3. Git clone new repo to your computer by right clicking SSH link in your repo, then open gitbash and type:
 
-    git clone 'whatever your repo SSH link is'
+    'git clone' 
+    
+    Then right click next to git clone text and your SSh link will be pasted in for you, hit enter and wait as it compiles
 
-4. Edit the README to your values
+4. Open the repo in your editor software and edit the README to your values
 
 ## Features
 - Clickable table of contents
 - Easily modifiable for more sections, more images, etc
+- Badges
 
 ## Technology
 List tech stack you used to create your project here (e.g. Node.js, Inquirer npm package, Github API)
@@ -88,13 +114,17 @@ List any unit tests you've created for your project here
 
 ## License
 
-This is the licence conditions you apply to your project (e.g. limitations on how it can be used, if they need to attribute you as the creator). Remember to change the copyright test to the current year and your name!
+This is the licence conditions you apply to your project (e.g. limitations on how it can be used, if they need to attribute you as the creator). 
+
+**Remember to change the copyright test to the current year and your name!**
+
+View licences available at [choosealicence website](https://choosealicense.com/licenses/)
 
 MIT
 
-Copyright 2021 Zachary Hobba
+**Copyright 2021 Zachary Hobba**
 
-`Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
     
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
