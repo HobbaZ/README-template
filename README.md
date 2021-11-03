@@ -1,26 +1,17 @@
 # README TEMPLATE
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
-
 ![License](https://img.shields.io/badge/Made%20with-Markdown-darkgreen.svg)
-
 [![Github Commits](https://img.shields.io/github/commit-activity/w/HobbaZ/README-template)](https://github.com/HobbaZ/README-template/commits)
-
 [![GitHub latest commit](https://img.shields.io/github/last-commit/HobbaZ/README-template)](https://github.com/HobbaZ/README-template/branches)
-
 [![GitHub followers](https://img.shields.io/github/followers/HobbaZ.svg)]()
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/HobbaZ/README-template)
-
 [![GitHub issues](https://img.shields.io/github/issues/HobbaZ/README-template)](https://img.shields.io/github/issues/HobbaZ/README-template)
-
 ![GitHub forks](https://img.shields.io/github/forks/HobbaZ/README-template)
-
 ![GitHub language count](https://img.shields.io/github/languages/count/HobbaZ/README-template)
-
 ![GitHub search hit counter](https://img.shields.io/github/search/HobbaZ/README-template/hits)
 
-Go to [sheilds.io](https://img.shields.io) to see what other badges you can add to your projects (to use the ones above, just change to your username and repo)
+Go to [shields.io](https://img.shields.io) to see what other badges you can add to your projects (to use the ones above, just change to your username and repo)
 
 ## Description
 ### Project Aim ###
@@ -107,6 +98,8 @@ E.g.
 
 [Google Fonts Lalezar](https://fonts.google.com/specimen/Lalezar?category=Display#standard-styles)
 
+[Shields.io](https://shields.io/)
+
 [Coolers](https://coolors.co/)
 
 ## Testing
@@ -116,7 +109,7 @@ List any unit tests you've created for your project here
 
 This is the licence conditions you apply to your project (e.g. limitations on how it can be used, if they need to attribute you as the creator). 
 
-**Remember to change the copyright test to the current year and your name!**
+**Remember to change the copyright text to the current year and your name!**
 
 View licences available at [choosealicence website](https://choosealicense.com/licenses/)
 
